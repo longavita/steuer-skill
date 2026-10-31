@@ -50,4 +50,4 @@ verheiratet, getrennt oder alleinerziehend, wer zahlt was.
 ## Ergebnis
 
 `familie.md` je Kind: was gilt, Betrag, Nachweis, Jahr der Regel. Eine Liste, was im
-Formular in welcher Anlage oder welchem Abschnitt eingetragen wird, für `/steuer-formular`.
+Formular in welcher Anlage (z. B. Anlage Kind) eingetragen wird, für dich oder deine Steuerberatung.

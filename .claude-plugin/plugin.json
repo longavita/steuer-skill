@@ -1,13 +1,13 @@
 {
   "name": "steuer-skill",
-  "description": "Elf kostenlose Claude-Skills auf Deutsch für deine Steuererklärung in Deutschland und Österreich: Belege sortieren, Absetzbares im Kontoauszug finden, Feld für Feld durch ELSTER oder FinanzOnline, alte Jahre zurückholen, Bescheid prüfen. Nichts wird abgeschickt, bevor du Ja sagst. Keine Steuerberatung. MIT.",
-  "version": "1.0.0",
+  "description": "Sechs Claude-Skills auf Deutsch für Selbstständige in Deutschland: Belege sortieren, mögliche Betriebsausgaben und private Abzüge im Kontoauszug finden, Haushalt, Familie, Fristen, Bescheid prüfen. Fork von neubauerwilli/steuer-skill. Keine Steuerberatung. MIT.",
+  "version": "1.0.0-selbststaendig",
   "author": {
     "name": "Willi Neubauer",
     "url": "https://willineubauer.com"
   },
-  "homepage": "https://github.com/neubauerwilli/steuer-skill",
-  "repository": "https://github.com/neubauerwilli/steuer-skill",
+  "homepage": "https://github.com/longavita/steuer-skill",
+  "repository": "https://github.com/longavita/steuer-skill",
   "license": "MIT",
   "keywords": [
     "claude-code",
@@ -16,7 +16,7 @@
     "steuer",
     "steuererklaerung",
     "elster",
-    "finanzonline",
-    "arbeitnehmerveranlagung"
+    "selbststaendig",
+    "betriebsausgaben"
   ]
 }

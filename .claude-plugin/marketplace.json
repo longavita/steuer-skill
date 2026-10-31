@@ -9,10 +9,10 @@
   "plugins": [
     {
       "name": "steuer-skill",
-      "description": "Elf Claude-Skills für deine Steuererklärung (DE und AT): Belege, Kontoauszug, Pendeln, Homeoffice, Werbungskosten, Haushalt, Familie, Rückblick, Formular, Bescheid und Fristen.",
+      "description": "Sechs Claude-Skills für Selbstständige in Deutschland: Belege, Kontoauszug (Betriebsausgaben), Haushalt, Familie, Fristen und Bescheid.",
       "source": "./",
       "category": "productivity",
-      "homepage": "https://github.com/neubauerwilli/steuer-skill"
+      "homepage": "https://github.com/longavita/steuer-skill"
     }
   ]
 }

@@ -45,9 +45,11 @@ Die Muster sind ein Netz, kein Urteil. Ein Treffer heißt: anschauen.
 
 ## Schritt 3: mit dem Nutzer durchgehen
 
-Geh die Treffer nach Kategorie durch, nicht Zeile für Zeile. Frag je Gruppe nur, was du
-nicht weißt, zum Beispiel:
-- Laptop, Handy, Software: Wie viel davon nutzt du beruflich? (Anteil in Prozent)
+Geh die Treffer nach Kategorie durch, nicht Zeile für Zeile. Treffer mit Skill `betrieb`
+sind mögliche Betriebsausgaben für die EÜR: Sie gehören in die Buchhaltung oder zur
+Steuerberatung, nicht in die privaten Abzüge. Am besten liegt dafür ein eigenes
+Geschäftskonto vor. Frag je Gruppe nur, was du nicht weißt, zum Beispiel:
+- Laptop, Handy, Software, Auto: Wie viel davon nutzt du betrieblich? (Anteil in Prozent)
 - Handwerker: Gibt es eine Rechnung mit ausgewiesenem Arbeitslohn?
 - Abos: Ist das ein Fachmagazin oder Unterhaltung?
 

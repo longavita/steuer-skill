@@ -29,10 +29,12 @@ Skills arbeiten.
 ## Schritt 1: drei Fragen
 
 1. **Land:** Deutschland oder Österreich?
-2. **Jahr:** Welches Steuerjahr? Unsicher, welche Jahre noch gehen: `/steuer-rueckblick`.
-3. **Lage:** angestellt, Studium, Ausbildung, Kinder, Homeoffice, Pendeln, Nebenjob.
-   Selbstständig, Vermietung oder Auslandseinkünfte: sag offen, dass dieses Paket dafür
-   nicht reicht, und empfiehl Steuerberatung.
+2. **Jahr:** Welches Steuerjahr? Selbstständige sind zur Abgabe verpflichtet; offene
+   Jahre und Fristen mit der Steuerberatung oder dem Finanzamt klären.
+3. **Lage:** selbstständig (Freiberuf oder Gewerbe), Kleinunternehmer ja/nein, Kinder,
+   Nebenjob. Dieses Paket sortiert Belege und deckt die privaten Abzüge ab. Gewinnermittlung
+   (EÜR, Anlage S oder G), Umsatzsteuer, Vorauszahlungen und Gewerbesteuer laufen über
+   Steuerberatung oder Buchhaltungssoftware. Vermietung oder Auslandseinkünfte: Steuerberatung.
 
 Schreib die Antworten nach `steuer/<jahr>/profil.md`. Gibt es die Datei schon, lies sie
 und frag nicht erneut.
@@ -44,7 +46,7 @@ Zeile in `steuer/<jahr>/belege.csv`, getrennt mit Semikolon:
 
 ```
 datum;aussteller;betrag;zweck;kategorie;skill;datei;bezahlt_per;notiz
-2025-03-14;Elektromarkt;899,00;Laptop;Arbeitsmittel;steuer-werbungskosten;belege/laptop.jpg;Karte;privat mitgenutzt?
+2025-03-14;Elektromarkt;899,00;Laptop;Betriebsausstattung;betrieb;belege/laptop.jpg;Karte;privat mitgenutzt?
 ```
 
 - `kategorie`: Arbeitsmittel, Fortbildung, Fachliteratur, Fahrt, Homeoffice, Handwerker,

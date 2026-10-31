@@ -30,7 +30,8 @@ abgleichen.
 ## Schritt 1: Termine sammeln
 
 Aus den anderen Skills, falls vorhanden:
-- `steuer/rueckblick.md`: Fristende je offenes Jahr (`/steuer-rueckblick`)
+- Abgabefrist der Einkommensteuererklärung (Pflichtveranlagung) und, falls zutreffend,
+  Umsatzsteuer-Voranmeldungen und Vorauszahlungstermine (10.3., 10.6., 10.9., 10.12.)
 - `steuer/<jahr>/bescheid.md`: Einspruchs- oder Beschwerdefrist (`/steuer-bescheid`)
 - `steuer/<jahr>/uebersicht.md`: offene Belege zum Nachfordern
 

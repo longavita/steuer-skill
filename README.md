@@ -1,3 +1,17 @@
+> **Fork für Selbstständige in Deutschland.** Basiert auf
+> [neubauerwilli/steuer-skill](https://github.com/neubauerwilli/steuer-skill) (MIT).
+> Entfernt: die fünf Arbeitnehmer-Skills (Werbungskosten, Pendeln, Homeoffice, Rückblick,
+> Formular). Übrig: steuer-belege, steuer-konto, steuer-haushalt, steuer-familie,
+> steuer-fristen, steuer-bescheid. `steuer-konto/regeln.json` erkennt zusätzlich mögliche
+> Betriebsausgaben (Skill `betrieb`): Raumkosten, Buchhaltung, Werbung, Hosting, Software,
+> Versand, Gebühren, Beiträge, Versicherungen, Fahrzeug, Reisen, Bewirtung.
+> Gewinnermittlung (EÜR), Umsatzsteuer und Gewerbesteuer deckt das Paket nicht ab:
+> dafür Steuerberatung oder Buchhaltungssoftware.
+>
+> Installieren: `/plugin marketplace add longavita/steuer-skill`, dann
+> `/plugin install steuer-skill@steuer-skill`, oder
+> `git clone https://github.com/longavita/steuer-skill.git && cp -r steuer-skill/skills/steuer-* ~/.claude/skills/`
+
 # Der Steuer-Skill
 
 Elf Claude-Skills auf Deutsch, die mit dir deine Steuererklärung machen. Für Arbeitnehmer in
